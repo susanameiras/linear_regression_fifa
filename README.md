@@ -1,3 +1,7 @@
+# Scope
+
+This project was created in the academic year 2021-2022 as part of the Computational Statistics Modeling specialization course at the University of Porto.
+
 # FIFA 19 Forward Players Linear Regression
 
 This repository contains a multiple linear regression analysis of FIFA 19 forward players. The goal is to explain and predict player `Overall` ratings using a combination of physical characteristics and mentality-related attributes.
